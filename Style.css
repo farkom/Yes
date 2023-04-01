@@ -11,7 +11,8 @@
     width:100%;
     height:600px;
     background-color: rgb(255, 255, 255)
-     display: flex; /* дозвіл на переміщення *
+    display: flex; /* дозвіл на переміщення *
+    flex-direction: row; /* переміщення з право на ліво *
 }
 
 .footer {
