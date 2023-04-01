@@ -23,4 +23,14 @@
 .block-1 {
     width: 30%;
     height: 120px;
-    background-color: black;
+    background-color: rgb(255, 102, 0);
+}
+.block-2 {
+    width: 30%;
+    height: 120px;
+    background-color: rgb(128, 0, 255);
+}
+
+h1 {
+    color: rgb(0, 128, 1);
+}
