@@ -8,8 +8,8 @@
     background-color: black;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    allign-items: center;
+    justify-content: center; /* вирівнювання по горизонталі (вісь ОХ)
+    allign-items: center; /* вирівнювання по вертикалі (вісь ОУ)
 }
 .main {
     width:100%;
